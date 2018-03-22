@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
  */
 public class AppTest {
    
-	@Test
+	@Test(enabled = false)
 	public void firstTest() {
 		int a = 2;
 		int b = 4;
