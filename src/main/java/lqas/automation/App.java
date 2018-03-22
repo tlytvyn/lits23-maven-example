@@ -7,7 +7,8 @@ package lqas.automation;
 public class App {
 	
     public static void main( String[] args ) {
-        System.out.println( "Hello World!" );
+        //THIS IS MAIN METHOD
+	System.out.println( "Hello World!" );
     }
     
 }
